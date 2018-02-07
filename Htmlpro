@@ -1,3 +1,4 @@
+<html>
 <style>
   .black-text{
 color:black;}
@@ -12,11 +13,15 @@ p {
   
   </style>
   
-  <h2 calss="black-text">Hello</h2>
+  <h2 calss="black-text">My First Website</h2>
   <p class="black-text"><In the first Im like anybody else but I have tendency more for programeing and I stand quickly 
 ,If I had a problem I still on it more than day but at the final i have to work it out ,I dont try to solve problem only for myself 
 sometimes I do it cause I say it will properly happen to anther one so im gonna help him></h2>
 
-<p>Click here for my<a herf="https://github.com/YousefAljazzar/FoRnYousef/new/master">GitHub</a></p>
+<div><p>Click here for my<a herf="https://github.com/YousefAljazzar/FoRnYousef/new/master">GitHub</a></p>
 <p>My FreeCodeCampLink<a herf="https://www.freecodecamp.org/yousefaljazzar">Here</a></p>
 <p>My CodeWars Link<a herf="https://www.codewars.com/users/YousefAljazzar"Here</a></p>
+</div>
+
+
+</html>
