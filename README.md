@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm software engineer <br>Asp.net Developer  
+I'm software Engineer ,Have good experines at asp.net , ms sql ,mysql and c#. with more than two years of experience in .Net Framework 
 
 
 ## 🌐 Socials:
